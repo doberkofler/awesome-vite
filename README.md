@@ -349,6 +349,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
 - [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 - [vite-plugin-builder](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
+- [vite-plugin-merge-css](https://github.com/doberkofler/vite-plugin-merge-css) - Merge all css chunks for each entry point into a single css file.
 
 #### Transformers
 
